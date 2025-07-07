@@ -9,7 +9,7 @@ A simple and responsive web application for managing your daily tasks. Stay orga
 - Mark tasks as complete/incomplete
 - Delete tasks
 - Responsive design for all devices
-- Local storage / Backend support *(customize as needed)*
+- Local storage
 
 ## 🌐 Live Demo
 
@@ -18,9 +18,9 @@ A simple and responsive web application for managing your daily tasks. Stay orga
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 / Tailwind / Bootstrap *(adjust as applicable)*
-- JavaScript / TypeScript
-- React / Vue / Vanilla JS *(adjust as needed)*
+- CSS3
+- JavaScript
+- Vanilla JS
 
 ## 📸 Screenshots
 
@@ -32,13 +32,11 @@ A simple and responsive web application for managing your daily tasks. Stay orga
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/todo-web-app.git
+git clone https://github.com/Shegzy-Dev/Todo-App.git
 
 # Navigate into the project directory
-cd todo-web-app
-
-# Install dependencies (if using a framework)
-npm install
+cd todo-app
 
 # Run the app locally
 npm start
+```
